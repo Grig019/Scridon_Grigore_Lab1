@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scridon_Grigore_Lab1", "Scridon_Grigore_Lab1\Scridon_Grigore_Lab1.csproj", "{12493E33-025F-4185-8D2D-60DFF4D92CE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12493E33-025F-4185-8D2D-60DFF4D92CE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12493E33-025F-4185-8D2D-60DFF4D92CE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12493E33-025F-4185-8D2D-60DFF4D92CE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12493E33-025F-4185-8D2D-60DFF4D92CE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB8D8676-65A7-4F9A-A62B-CA906E1C0A56}
+	EndGlobalSection
+EndGlobal
